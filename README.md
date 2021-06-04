@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rex-Yim
+- 👋 Hi, I’m Rex Yim
 - 👀 I’m interested in App development
 
 <!---
